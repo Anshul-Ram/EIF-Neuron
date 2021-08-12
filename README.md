@@ -9,8 +9,8 @@ I did this as the project of my Maths Masters degree.
 Here is a series of graphs from the simulation of the neuron:
 
 
-![Unknown.png](Unkown.png)
+![Unknown.png](Unknown.png)
 
-![Unknown-2.png](Unkown-2.png)
+![Unknown-2.png](Unknown-2.png)
 
-![Unknown-3.png](Unkown-3.png)
+![Unknown-3.png](Unknown-3.png)
