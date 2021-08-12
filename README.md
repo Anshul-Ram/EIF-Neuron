@@ -10,10 +10,14 @@ Here is a series of graphs from the simulation of the neuron:
 
 The y - axis in voltage and the x - axis is the dimension along the cell. The left hand side of the cell (the x - axis) is the axon and the right hand side is the dendrite
 
-The dendrite has current injected into it. This diffuses out through the dendrite and into the axon, the axon spikes when it reaches a threshold voltage it spikes exponentially and propagates a voltage spike through it by a 'chain reaction'.
+The dendrite has current injected into it. The current moves through the dendrite and into the axon, the axon spikes when it reaches a threshold voltage it spikes exponentially and propagates a voltage spike through it by a 'chain reaction'.
 
 ![Unknown.png](Unknown.png)
 
+The current is injected initially into the dendrite.
+
 ![Unknown-2.png](Unknown-2.png)
+
+The voltage diffuses into the axon.
 
 ![Unknown-3.png](Unknown-3.png)
