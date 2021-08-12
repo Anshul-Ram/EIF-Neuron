@@ -1,4 +1,4 @@
-# EIF-Neuron (draft README)
+# EIF-Neuron
 
 This is a simulation of a neuron using the Exponential Integrate and Fire model, this is a differential equation which integrates the current incident to the axon of a neuron and spikes the voltage exponentially when a threshold voltage is exceeded.
 
@@ -14,12 +14,12 @@ The dendrite has current injected into it. The current moves through the dendrit
 
 ![Unknown.png](Unknown.png)
 
-The current is injected initially into the dendrite.
+### The current is injected initially into the dendrite.
 
 ![Unknown-2.png](Unknown-2.png)
 
-The voltage diffuses into the axon. generating a voltage spike which travels through the axon.
+### The voltage diffuses into the axon. generating a voltage spike which travels through the axon.
 
 ![Unknown-3.png](Unknown-3.png)
 
-The voltage spoke travels even farther through the axon.
+### The voltage spoke travels even farther through the axon.
