@@ -18,6 +18,8 @@ The current is injected initially into the dendrite.
 
 ![Unknown-2.png](Unknown-2.png)
 
-The voltage diffuses into the axon.
+The voltage diffuses into the axon. generating a voltage spike which travels through the axon.
 
 ![Unknown-3.png](Unknown-3.png)
+
+The voltage spoke travels even farther through the axon.
